@@ -112,7 +112,7 @@ body {
 		Persons</button>
 	<div class="panel">
 		<form class="modal-content"
-			action="http://${hostUrl}/SpringMvc_Hibernate_Add_Edit_Delete_example_4/passenger/${FlightName}/${FlightArrival}/${FlightDeparture}/${FlightPrice}"
+			action="${hostUrl}/SpringMvc_Hibernate_Add_Edit_Delete_example_4/passenger/${FlightName}/${FlightArrival}/${FlightDeparture}/${FlightPrice}"
 			method="POST">
 
 			<hr>
