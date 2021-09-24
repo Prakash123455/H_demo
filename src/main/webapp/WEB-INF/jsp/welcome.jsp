@@ -131,7 +131,7 @@ span.fname {
 	<div class="row">
 		<div class="col-75">
 			<div class="container">
-				<form action="http://localhost:8086/customerdetails" method="post">
+				<form action="http://${hostUrl}/customerdetails" method="post">
 
 					<div class="row">
 						<div class="col-50">
